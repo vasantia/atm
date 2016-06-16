@@ -7,8 +7,6 @@ public class Main {
         Customer customer = new Customer();
         customer.chooseName();
         customer.selectOption();
-        customer.getBalance();
-        customer.getWithdrawalAmount();
 
     }
 }
